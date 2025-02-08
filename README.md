@@ -1,2 +1,2 @@
 # Probabilidad-y-Estadistica
-Programas de la Unidad 1
+Programas de la materia Probabilidad y Estadística
